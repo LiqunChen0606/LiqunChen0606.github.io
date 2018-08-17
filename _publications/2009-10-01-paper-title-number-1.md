@@ -10,4 +10,4 @@ paperurl: 'https://papers.nips.cc/paper/7133-alice-towards-understanding-adversa
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](https://papers.nips.cc/paper/7133-alice-towards-understanding-adversarial-learning-for-joint-distribution-matching.pdf)
+<!-- [Download paper here](https://papers.nips.cc/paper/7133-alice-towards-understanding-adversarial-learning-for-joint-distribution-matching.pdf) -->

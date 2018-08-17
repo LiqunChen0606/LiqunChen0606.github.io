@@ -10,4 +10,4 @@ paperurl: 'http://papers.nips.cc/paper/7020-adversarial-symmetric-variational-au
 ---
 
 
-[Download paper here](http://papers.nips.cc/paper/7020-adversarial-symmetric-variational-autoencoder.pdf)
+<!-- [Download paper here](http://papers.nips.cc/paper/7020-adversarial-symmetric-variational-autoencoder.pdf) -->
