@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Shanghai Jiaotong University, 2010-2014
+* M.S. in Columbia University, 2014-2016
+* Ph.D in  Duke University, 2016-2020(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017 May-Aug: Research Assistant
+  * BAIDU USA
+  * Duties included: research internship
+  * Supervisor: Haichao Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Currently: Research Assistant
+  * Duke University
+  * Duties included: Research
+  * Supervisor: Professor Lawrence Carin
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Python
+  * Tensorflow
+  * Pytorch
 
 Publications
 ======
