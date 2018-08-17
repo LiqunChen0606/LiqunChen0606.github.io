@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Research hompage"
+title                    : "Liqun Chen / Hompage"
 title_separator          : "-"
 name                     : &name "Liqun Chen"
 description              : &description "Duke ECE PhD"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Liqun Chen"
-  avatar           : "profile.png"
+  avatar           : "https://raw.githubusercontent.com/LiqunChen0606/LiqunChen0606.github.io/master/images/IMG_0644.JPG"
   bio              : "Duke University/ ECE PhD"
   location         : "Location"
   employer         :
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/liqunchen1/"
   orcid            : 
   pinterest        :
   soundcloud       :
