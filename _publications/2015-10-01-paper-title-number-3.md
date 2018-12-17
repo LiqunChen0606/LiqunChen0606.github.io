@@ -9,5 +9,5 @@ paperurl: 'http://papers.nips.cc/paper/7020-adversarial-symmetric-variational-au
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-
+Y. Pu, W. Wang, R. Henao, **L. Chen**, Z. Gan, C. Li, and L. Carin Adversarial Symmetric Variational Autoencoder”, Neural Information Processing Systems (NIPS), 2017
 <!-- [Download paper here](http://papers.nips.cc/paper/7020-adversarial-symmetric-variational-autoencoder.pdf) -->
