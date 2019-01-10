@@ -9,5 +9,4 @@ venue: 'AISTATS 2018'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-
-[Download paper here](http://proceedings.mlr.press/v84/chen18b/chen18b.pdf)
+**L. Chen**, S. Dai, Y. Pu, C. Li, Q. Su and L. Carin. "Symmetric Variational Autoencoder and Connections to Adversarial Learning", Artificial Intelligence and Statistics (AISTATS) 2018.
